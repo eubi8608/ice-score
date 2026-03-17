@@ -19,6 +19,7 @@ Evaluation Steps:
 1. Read the problem carefully and identify required functionalities of the implementation.
 2. Read the code snippet and compare it to the problem. Check if the code snippet covers all required functionalities of the problem. 
 3. Assign a score for functional correctness on a scale of 0 to 4, where 0 is the lowest and 4 is the highest based on the Evaluation Criteria.
+4. Instead of using a discrete evaluation scale, you may assign a continuous (real-valued) score to provide a more fine-grained assessment.
 
 Problem:
 
@@ -48,6 +49,7 @@ Evaluation Steps:
 1. Read the problem carefully and identify required functionalities of the implementation.
 2. Read the code snippet and compare it to the reference code. Check if the code snippet covers all required functionalities of the problem, and if it is as good as the reference code. 
 3. Assign a score for functional correctness on a scale of 0 to 4, where 0 is the lowest and 4 is the highest based on the Evaluation Criteria.
+4. Instead of using a discrete evaluation scale, you may assign a continuous (real-valued) score to provide a more fine-grained assessment.
 
 Problem:
 
@@ -87,6 +89,7 @@ Evaluation Steps:
 1. Read the problem carefully and identify required functionalities of the implementation.
 2. Read the code snippet and compare it to the problem. Check if the code snippet covers all required functionalities of the problem, and if it presents them in a clear and logical order. 
 3. Assign a score for usefulness on a scale of 0 to 4, where 0 is the lowest and 4 is the highest based on the Evaluation Criteria.
+4. Instead of using a discrete evaluation scale, you may assign a continuous (real-valued) score to provide a more fine-grained assessment.
 
 Problem:
 

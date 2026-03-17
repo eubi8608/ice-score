@@ -17,6 +17,7 @@ setup(
     entry_points={
         "console_scripts": [
             "evaluate = llm_code_eval.evaluator:evaluate",
+            "evaluate_qwen = llm_code_eval.evaluator:evaluate_qwen",
         ],
     },
 )
